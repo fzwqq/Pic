@@ -28,3 +28,4 @@ git push Pic master
 ```
 
 4. 执行 ./_Pic.sh 即可 (初次执行需要先设置权限 chmod 755 _Pic.sh_)
+
